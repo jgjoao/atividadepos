@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AtividadeTeste" project="AulaTeste" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="AtividadeTeste" time="0.0" uniqueid="[engine:junit-vintage]/[runner:AtividadeTeste]">
+    <testcase name="testDel" classname="AtividadeTeste" time="0.0" displayname="testDel" uniqueid="[engine:junit-vintage]/[runner:AtividadeTeste]/[test:testDel(AtividadeTeste)]"/>
+    <testcase name="testIns" classname="AtividadeTeste" time="0.0" displayname="testIns" uniqueid="[engine:junit-vintage]/[runner:AtividadeTeste]/[test:testIns(AtividadeTeste)]"/>
+    <testcase name="testSize" classname="AtividadeTeste" time="0.0" displayname="testSize" uniqueid="[engine:junit-vintage]/[runner:AtividadeTeste]/[test:testSize(AtividadeTeste)]"/>
+  </testsuite>
+</testrun>
